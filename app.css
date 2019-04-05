@@ -1,0 +1,25 @@
+body {
+	padding-top: 50px;
+}
+
+.message-line {
+	color: black;
+}
+
+.message-line.direct-message {
+	color: purple;
+}
+
+.message-line.pending {
+	color: grey !important;
+}
+
+.user-list {
+}
+
+.user-list h1 {
+	padding: 0px;
+	margin: 0px;
+	font-size: 1.0em;
+	text-decoration: underline;
+}
