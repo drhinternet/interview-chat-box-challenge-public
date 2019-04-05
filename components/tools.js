@@ -39,7 +39,7 @@ function readFromSession(key) {
 }
 
 // The base URL used to connect to the Chat Box Challenge server.
-var baseUrl = "http://odin.local:8089/";
+var baseUrl = "http://demo.drh.net:5799/";
 
 // postJSON issues an AJAX POST and calls the given callback. The callback is
 // called with a Chat Box Challenge kind of value, even if there's a
